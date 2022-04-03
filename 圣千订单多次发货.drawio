@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T07:55:43.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55" etag="hTtKl7CJ7mIl9J00CHXQ" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T07:56:25.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55" etag="h77yVry4Z-548wWxX2AU" version="17.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="5HW0SoTk3jlKwKDl8WeO-2" value="更新订单收货地址：UpdateRecipient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1050" y="1260" width="490" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5HW0SoTk3jlKwKDl8WeO-3" value="获取快递信息：QueryKuaiDi（Order.Id）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5HW0SoTk3jlKwKDl8WeO-3" value="获取快递信息：QueryKuaiDi（Order.Id）&lt;br&gt;快递100数据回调：KuaiDi100Callback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1050" y="1430" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5HW0SoTk3jlKwKDl8WeO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5HW0SoTk3jlKwKDl8WeO-4" target="5HW0SoTk3jlKwKDl8WeO-5">
