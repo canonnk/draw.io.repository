@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T02:22:20.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="RwG7KGoRHT0TTw4PrFdN" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T02:38:30.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="2u7DAIL4pXnVSwwZCiQs" version="20.8.23" type="github">
   <diagram name="第 1 页" id="2Y6dMtnJxXGBscocuoJI">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
             <mxGeometry x="230" y="380" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="lluqx_O-5QVHIMEDoMb_-28" value="BOS销售退货单：&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;* 主表字段：预估退回金额、退货订单号、售后单号、退货数量、退货部门、退货员工&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;* 物料明细子表：预计退货金额、预计退货数量&lt;br&gt;其他入库单（零售退货）：&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;* 从BOS销售退货单下推&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;* 明细表添加退回是否次品&lt;br&gt;收款退款单：&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;* 从BOS销售退货单下推&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;* 添加退款分成比例字段&lt;br&gt;收款单：&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;* 从财务销售订单下推&lt;br&gt;销售出库单：&lt;br&gt;&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;* 从财务销售订单下推" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="70" y="585" width="500" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
