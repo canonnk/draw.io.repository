@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T02:08:42.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="Y_xuXF7s-Ex8E51Xxm6z" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T02:09:08.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="pNtortJ9DT_L-LTPCVc-" version="20.8.23" type="github">
   <diagram name="第 1 页" id="2Y6dMtnJxXGBscocuoJI">
     <mxGraphModel dx="1159" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,26 +10,26 @@
         <mxCell id="lluqx_O-5QVHIMEDoMb_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lluqx_O-5QVHIMEDoMb_-1" target="lluqx_O-5QVHIMEDoMb_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lluqx_O-5QVHIMEDoMb_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lluqx_O-5QVHIMEDoMb_-1" target="lluqx_O-5QVHIMEDoMb_-13">
+        <mxCell id="lluqx_O-5QVHIMEDoMb_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lluqx_O-5QVHIMEDoMb_-1" target="lluqx_O-5QVHIMEDoMb_-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lluqx_O-5QVHIMEDoMb_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lluqx_O-5QVHIMEDoMb_-1" target="lluqx_O-5QVHIMEDoMb_-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lluqx_O-5QVHIMEDoMb_-1" value="财务销售订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lluqx_O-5QVHIMEDoMb_-2" value="销售出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lluqx_O-5QVHIMEDoMb_-7" value="收款单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lluqx_O-5QVHIMEDoMb_-13" value="收款退款单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lluqx_O-5QVHIMEDoMb_-16" value="退货入库单（零售退货）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
